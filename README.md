@@ -1,5 +1,8 @@
 # PowerPoint-Generator
 
+<img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/b653b5e4-82cc-40f3-89a4-d1f61f2adde0" />
+
+
 ##  Overview
 
 This project is a PowerPoint Generator built using Python. It automates the process of creating visually appealing PowerPoint presentations based on given input, reducing manual effort and saving time. The project is especially useful for students, professionals, and organizations that frequently prepare structured presentations.
